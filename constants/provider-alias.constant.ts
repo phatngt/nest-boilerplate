@@ -1,0 +1,2 @@
+export const ENV_CONFIG = 'ENV_CONFIG';
+export const MONGODB_CONNECTION = 'MONGODB_CONNECTION';
